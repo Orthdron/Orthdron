@@ -4,15 +4,3 @@
 ### Hello World! 👋
 
 You are viewing Deepak's profile or online alias of Orthdron.
-
-
-#### My professional life's TLDR
-
-I have been developing websites and automation tools using 2011. First got into programming when I took upon myself to revamp the high school's website.
-Moved onto bachelor's degree and starting working on freelancing projects on the side.
-Completed degree, got a job, spent 2 years, moved to Canada to better utilize my skills.
-Currently looking out for opportunities while working on several small ideas.
-
-#### What tech can you use?
-
-Aaah, the age old question. Well, having worked with a wide variety of languages and framework for different clients so at this point I would like to say I'm language agnostic.
